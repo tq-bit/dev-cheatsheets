@@ -12,3 +12,5 @@ Goals of these cheatsheets are
 - to provide a basic, 1-page schedule for project bootstrapping
 - listing up planning steps one should walk through before starting to code
 - to serve as a reminder that one should `first solve the problem, then write the code`
+
+> Update 19.03.2022: Added new Layout for Git & Github Cheatsheet #I
